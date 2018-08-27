@@ -1,0 +1,10 @@
+D:\Dropbox\C#\AntiScreenshot\AntiScreenshot\obj\Debug\AntiScreenshot.Properties.Resources.resources
+D:\Dropbox\C#\AntiScreenshot\AntiScreenshot\obj\Debug\AntiScreenshot.csproj.GenerateResource.cache
+D:\Dropbox\C#\AntiScreenshot\AntiScreenshot\obj\Debug\AntiScreenshot.csproj.CoreCompileInputs.cache
+D:\Dropbox\C#\AntiScreenshot\AntiScreenshot\obj\Debug\AntiScreenshot.csprojAssemblyReference.cache
+D:\Dropbox\C#\AntiScreenshot\AntiScreenshot\obj\Debug\AntiScreenshots.Form1.resources
+D:\Dropbox\C#\AntiScreenshot\AntiScreenshot\bin\Debug\AntiScreenshot.exe.config
+D:\Dropbox\C#\AntiScreenshot\AntiScreenshot\bin\Debug\AntiScreenshot.exe
+D:\Dropbox\C#\AntiScreenshot\AntiScreenshot\bin\Debug\AntiScreenshot.pdb
+D:\Dropbox\C#\AntiScreenshot\AntiScreenshot\obj\Debug\AntiScreenshot.exe
+D:\Dropbox\C#\AntiScreenshot\AntiScreenshot\obj\Debug\AntiScreenshot.pdb

@@ -1,0 +1,10 @@
+D:\Dropbox\C#\AntiScreenshot\AntiScreenshot\bin\Debug\ProtectMyPrivacy.exe.config
+D:\Dropbox\C#\AntiScreenshot\AntiScreenshot\bin\Debug\ProtectMyPrivacy.exe
+D:\Dropbox\C#\AntiScreenshot\AntiScreenshot\bin\Debug\ProtectMyPrivacy.pdb
+D:\Dropbox\C#\AntiScreenshot\AntiScreenshot\obj\Debug\ProtectMyPrivacy.csprojAssemblyReference.cache
+D:\Dropbox\C#\AntiScreenshot\AntiScreenshot\obj\Debug\ProtectMyPrivacy.Form1.resources
+D:\Dropbox\C#\AntiScreenshot\AntiScreenshot\obj\Debug\AntiScreenshot.Properties.Resources.resources
+D:\Dropbox\C#\AntiScreenshot\AntiScreenshot\obj\Debug\ProtectMyPrivacy.csproj.GenerateResource.cache
+D:\Dropbox\C#\AntiScreenshot\AntiScreenshot\obj\Debug\ProtectMyPrivacy.csproj.CoreCompileInputs.cache
+D:\Dropbox\C#\AntiScreenshot\AntiScreenshot\obj\Debug\ProtectMyPrivacy.exe
+D:\Dropbox\C#\AntiScreenshot\AntiScreenshot\obj\Debug\ProtectMyPrivacy.pdb
